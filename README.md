@@ -1,1 +1,1 @@
-# <p align="center"> [![NUMPY](sources/python_logo.png)]() Introducción a NUMPY </p>
+# <p align="center"> [![NUMPY](src/numpy_logo.png)]() Introducción a NUMPY </p>
