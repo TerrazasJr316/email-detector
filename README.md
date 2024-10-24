@@ -1,3 +1,1 @@
-# machine-learning-aplication
-
-welcome
+# <p align="center"> [![NUMPY](src/numpy_logo.png)]() Introducción a NUMPY </p>
