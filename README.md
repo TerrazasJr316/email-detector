@@ -1,3 +1,6 @@
-# <p align="center"> [![NUMPY](src/numpy_logo.png)]() Introducción a NUMPY </p>
+# <p align="center"> Aprendizaje Automático ML 💻📉</p>
 
-![https://github.com/TerrazasJr316/machine-learning-aplication](./src/portada.jpg.jpg)
+
+## Aplicación de Machine Learning, aprendiendo librerías hasta ingesta de datos
+
+![](./src/portada.jpg)
