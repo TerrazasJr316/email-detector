@@ -4,6 +4,8 @@
 )](https://www.python.org/downloads/release/python-31014/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-V2.6.6-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010
 )]()
+[![Jupyter](https://img.shields.io/badge/jupyter%20notebook-V7.3.2-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010
+)]()
 [![Numpy](https://img.shields.io/badge/Numpy-V2.2.5-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010
 )]()
 [![Pandas](https://img.shields.io/badge/Pandas-V2.2.3-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010
