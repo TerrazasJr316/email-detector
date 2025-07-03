@@ -8,7 +8,7 @@
 )]()
 [![Pandas](https://img.shields.io/badge/Pandas-V2.2.3-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010
 )]()
-[![Skitlearn](https://img.shields.io/badge/Scikit%20learn-V1.6.1-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010
+[![Skitlearn](https://img.shields.io/badge/Scikitlearn-V1.6.1-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010
 )]()
 
 ## Aplicación de Machine Learning, conociendo las librerías hasta ingesta de datos
