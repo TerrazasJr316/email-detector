@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-V3.10.18-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010
 )](https://www.python.org/downloads/release/python-31014/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-V2.6.6-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010
+[![Aznaconda](https://img.shields.io/badge/Anaconda-V2.6.6-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010
 )]()
 [![Jupyter](https://img.shields.io/badge/jupyter%20notebook-V7.3.2-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010
 )]()
