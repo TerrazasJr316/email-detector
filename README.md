@@ -11,27 +11,32 @@
 
 ![](./src/portada.jpg)
 
-> ##### ⚠️ This is not a software or web⚠️
+> [!WARNING]
+> This is not a software or web
 
 ## Features
-* Manual introduction with a real-world Excel example
-* Introduction to Python libraries commonly used in data science
-* Basic mathematical models for analysis and prediction
-* Expository documentation for each concept
-Hands-on practices applying the presented models
+
+* **Manual introduction** with a real-world Excel example
+* **Introduction to Python** - libraries commonly used in data science
+* **Basic mathematical** models for analysis and prediction
+* **Expository documentation** for each concept
+* **Hands-on practices** applying the presented models
 
 ## 🛠️ Technologies Used
 
 ### GUI
-* Anaconda Navigator 2.6+ – Environment configuration and workspace management
+
+* **Anaconda Navigator 2.6+** – Environment configuration and workspace management
 
 ### UI / CLI
-* Terminal – Installation of libraries and packages
-* Python3 - Code development.
-* Jupyter Notebook – Code development and documentation
+
+* **Terminal** – Installation of libraries and packages
+* **Python3** - Code development.
+* **Jupyter Notebook** – Code development and documentation
 
 ### Libraries
-* NumPy – Mathematical operations and data structures
-* Pandas – Data manipulation and analysis
-* Matplotlib – Data visualization
-* Scikit-learn – Training of classic ML models and clustering
+
+* **NumPy** – Mathematical operations and data structures
+* **Pandas** – Data manipulation and analysis
+* **Matplotlib** – Data visualization
+* **Scikit-learn** – Training of classic ML models and clustering
