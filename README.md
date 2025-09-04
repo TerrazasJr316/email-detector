@@ -41,6 +41,57 @@
 * **Matplotlib** – Data visualization
 * **Scikit-learn** – Training of classic ML models and clustering
 
+## 📦 Installation and Configuration
+
+### Requirements
+
+* Python 3.10+ (stable version)
+* Linux operating system (any distribution, recommended)
+* Virtual environment in Anaconda Navigator
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/TerrazasJr316/linear-forecasting.git
+cd linear-forecasting
+```
+
+### 2. Launch the virtual environment
+
+```bash
+# to create
+~$ conda create -n environment_name python=version anaconda
+# to activate
+~$ source activate -- environment_name
+# to desactivate
+~$ source deactivate
+```
+
+[Managing Environment](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
+
+### 3. Install required libraries
+
+```bash
+# conda
+conda install anaconda::numpy
+conda install anaconda::pandas
+conda install anaconda::matplotlib
+conda install anaconda::scikit-learn
+# pip
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+```
+
+### 4. Set the dataset path
+
+recomended:
+
+```bash
+linear-forecasting/
+```
+
 ## Contact me & Social Media
 
 [![Email](https://img.shields.io/badge/Gmail-terrazasjosue0%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](terrazasjosue0@gmail.com)
