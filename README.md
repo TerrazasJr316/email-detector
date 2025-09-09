@@ -89,7 +89,7 @@ pip install scikit-learn
 recomended:
 
 ```bash
-linear-forecasting/
+machine-learning-aplication/
 ```
 
 ## Contact me & Social Media
