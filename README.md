@@ -102,8 +102,6 @@ machine-learning-aplication/
 * [Managing environments](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
 * [What's Logistic Regression?](https://www.ibm.com/mx-es/think/topics/logistic-regression)
 
-
-
 ## Contact me & Social Media
 
 [![Email](https://img.shields.io/badge/Gmail-terrazasjosue0%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](terrazasjosue0@gmail.com)
