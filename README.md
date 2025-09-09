@@ -92,6 +92,18 @@ recomended:
 machine-learning-aplication/
 ```
 
+## Functions
+
+## 🐛 Troubleshooting
+
+## ❓ FAQ
+
+* [How to activate conda environment](https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487)
+* [Managing environments](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
+* [What's Logistic Regression?](https://www.ibm.com/mx-es/think/topics/logistic-regression)
+
+
+
 ## Contact me & Social Media
 
 [![Email](https://img.shields.io/badge/Gmail-terrazasjosue0%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](terrazasjosue0@gmail.com)
