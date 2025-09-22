@@ -1,4 +1,4 @@
-# 💻📉 Machine Learning Engine
+# EMAIL DETECTOR
 
 [![Python](https://img.shields.io/badge/Python-V3.10+-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/downloads/release/python-31014/)
 [![Aznaconda](https://img.shields.io/badge/Anaconda-V2.6+-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)](https://www.anaconda.com/docs/getting-started/getting-started)
@@ -62,7 +62,7 @@ cd linear-forecasting
 # to create
 ~$ conda create -n environment_name python=version anaconda
 # to activate
-~$ source activate -- environment_name
+~$ source activate environment_name
 # to desactivate
 ~$ source deactivate
 ```
@@ -77,6 +77,7 @@ conda install anaconda::numpy
 conda install anaconda::pandas
 conda install anaconda::matplotlib
 conda install anaconda::scikit-learn
+conda install anaconda::jupyter
 # pip
 pip install numpy
 pip install pandas
