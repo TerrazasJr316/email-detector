@@ -96,6 +96,38 @@ machine-learning-aplication/
 
 ## 🐛 Troubleshooting
 
+**Error: "download stopwords"**.
+
+* **Email parsing - logistic_refression**
+
+```python
+# save under the user home directory
+import nltk
+nltk.download('stopwords')
+
+# save to speific location
+import nltk
+import os
+
+route_download = "/specific/location/nltk_data"
+nltk.download('stopwords', download_dir=route_download)
+
+if route_download not in nltk.data.path:
+    nltk.data.path.append(route_download)
+```
+
+**Error: download arff**.
+
+* **Import arff - data_splitting**
+
+```bash
+# pip
+pip install arff
+
+# conda
+conda install auto::arff
+```
+
 ## ❓ FAQ
 
 * [How to activate conda environment](https://es.stackoverflow.com/questions/335525/como-activar-conda-environment/339487#339487)
