@@ -52,7 +52,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TerrazasJr316/linear-forecasting.git
+git clone https://github.com/TerrazasJr316/e.git
 cd linear-forecasting
 ```
 
@@ -64,7 +64,7 @@ cd linear-forecasting
 # to activate
 ~$ source activate environment_name
 # to desactivate
-~$ source deactivate
+~$ conda deactivate
 ```
 
 [Managing Environment](https://www.anaconda.com/docs/tools/anaconda-navigator/tutorials/manage-environments)
