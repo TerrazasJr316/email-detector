@@ -87,7 +87,7 @@ pip install scikit-learn
 recomended:
 
 ```bash
-email-detector/data
+email-detector/data/
 ```
 
 ## 🤖 Machine Learning workflow
