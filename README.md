@@ -1,6 +1,6 @@
 # ✉️ EMAIL DETECTOR
 
-
+This linear model was trained with both preprocessed data and raw data ingestion, with the purpose of detecting ham and spam emails. The dataset was collected by the University of New Brunswick in 2007, aiming to mathematically understand data behavior and apply critical thinking toward identifying the optimal model.
 
 [![Python](https://img.shields.io/badge/Python-V3.10+-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/downloads/release/python-31014/)
 [![Aznaconda](https://img.shields.io/badge/Anaconda-V2.6+-%2344A833?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=101010)](https://www.anaconda.com/docs/getting-started/getting-started)
@@ -8,7 +8,6 @@
 [![Numpy](https://img.shields.io/badge/Numpy-V2.2+-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)](https://numpy.org/install/)
 [![Pandas](https://img.shields.io/badge/Pandas-V2.2+-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/docs/getting_started/install.html)
 [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-V1.6+-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/install.html)
-
 
 ![index](./src/portada.jpg)
 
@@ -123,7 +122,6 @@ EMAIL-DETECTOR/
 ├── dataset_splitting.ipynb
 ├── model_evaluation-full.ipynb
 └── model_evaluation.ipynb
-
 ```
 
 ## 🐛 Troubleshooting
@@ -180,6 +178,8 @@ conda install auto::arff
 ### 💻 Computer Systems Engineering
 
 Adaptable and flexible in different work environments, with strong critical thinking, solid problem-solving skills, and a collaborative, responsible mindset. My strongest areas are backend development, databases, and machine learning.
+
+If you find this project useful, you can support it by giving a "☆ Star" to the repository.
 
 ![Email](https://img.shields.io/badge/Gmail-terrazasjosue0%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)
 [![Facebook](https://img.shields.io/badge/Facebook-%40Josu%C3%A9_Terrazas-0866FF?style=for-the-badge&logo=Facebook&logoColor=withe&labelColor=101010)](https://facebook.com/josue.terrazasmendoza)
