@@ -121,8 +121,6 @@ EMAIL-DETECTOR/
 ├── data_visualization.ipynb
 ├── dataset_preprocessing.ipynb
 ├── dataset_splitting.ipynb
-├── linear_regression.ipynb
-├── logistic_regression.ipynb
 ├── model_evaluation-full.ipynb
 └── model_evaluation.ipynb
 
